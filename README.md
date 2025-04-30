@@ -28,3 +28,13 @@
 ### Implantação
 - Bash
 - Docker 
+
+
+## Controle de versões 
+
+[Pro Git](https://github.com/progit/progit2)
+
+### VCS
+    - local : compartilhamento entre pessoas
+    - centralizado : o servidor contém todo histórico 
+    - distribuído : Git
