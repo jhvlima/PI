@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Título</title>
+    <script>
+        function displayDate(elementId) {
+            let element = document.getElementById(elementId);
+            element.innerHTML = Date();
+        }
+    </script>
+</head>
+
+<body>
+    <h1>Exemplo JavaScript embutido</h1>
+    <button type="button" onclick="displayDate('demo')">
+        Clique aqui!
+    </button>
+    <p id="demo"></p>
+</body>
+
+</html>
