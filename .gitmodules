@@ -1,0 +1,3 @@
+[submodule "liftup"]
+	path = liftup
+	url = https://github.com/pedromendonca2/liftup.git
